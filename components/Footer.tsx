@@ -54,15 +54,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-4 text-sm">
               <li className="flex items-start gap-3">
                 <i className="fas fa-map-marker-alt mt-1 text-indigo-400"></i>
-                <span>Silicon Valley, Tech District<br />CA 94025, USA</span>
+                <span>Bhikhi Road, Sheikhupura<br />CA 94025, SKP</span>
               </li>
               <li className="flex items-center gap-3">
                 <i className="fas fa-envelope text-indigo-400"></i>
-                <a href="mailto:hello@readysite.com" className="hover:text-white">hello@readysite.com</a>
+                <a href="mailto:Malikwahab98@gmail.com" className="hover:text-white">Malikwahab98@gmail.com</a>
               </li>
               <li className="flex items-center gap-3">
                 <i className="fab fa-whatsapp text-indigo-400 text-lg"></i>
-                <span>+1 (234) 567-890</span>
+                <span>+92 3432560985</span>
               </li>
             </ul>
           </div>
